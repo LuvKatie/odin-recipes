@@ -1,5 +1,4 @@
-# odin-recipes
-First HTML project - Recipes
+# First HTML project - Recipes
 
 Putting my HTML out for a test run.
 
